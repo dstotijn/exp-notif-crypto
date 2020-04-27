@@ -1,3 +1,5 @@
+// Package crypto is a Go implementation of the crypto functions of
+// Apple/Google’s Exposure Notification framework.
 package crypto
 
 import (
